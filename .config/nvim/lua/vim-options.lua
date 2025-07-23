@@ -15,3 +15,4 @@ vim.keymap.set('n', '<c-l>', ':wincmd l<CR>')  -- Ctrl+l to move right
 vim.keymap.set('n', '<leader>h', ':nohlsearch<CR>')  -- Space + h clears search highlights
 vim.wo.number = true                                 -- Shows line numbers
 
+
